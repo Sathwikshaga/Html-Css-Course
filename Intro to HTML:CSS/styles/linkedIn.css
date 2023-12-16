@@ -1,0 +1,38 @@
+.linkedIn-apply_on_company_website-button {
+    color: white;
+    background-color: rgb(10, 102, 194);
+    border: none;
+    height: 42.5px;
+    width: 271px;
+    border-radius: 25px;
+    font-weight: 650;
+    font-size: 16.5px;
+    cursor: pointer;
+    margin-right: 10px;
+    transition: background-color 0.15s;
+}
+
+.linkedIn-apply_on_company_website-button:hover {
+    background-color: rgb(6, 81, 156);
+}
+
+.linkedIn-save-button {
+    color: rgb(10, 102, 194);
+    background-color: white;
+    border-style: solid;
+    border-color: rgb(10, 102, 194);
+    border-radius: 25px;
+    border-width: 1px;
+    height: 42.5px;
+    width: 91px;
+    font-size: 16.5px;
+    font-weight: 750;
+    cursor: pointer;
+    transition: background-color 0.15s,
+        border-width 0.15s;
+}
+
+.linkedIn-save-button:hover {
+    background-color: rgba(10, 102, 194, 0.1);
+    border-width: 2px;
+}

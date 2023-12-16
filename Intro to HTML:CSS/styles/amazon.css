@@ -1,0 +1,71 @@
+.l1 {
+    color: rgb(0, 113, 133);
+    font-size: 18px;
+    transition: color 0.15s;
+}
+
+.l1:hover {
+    color: chocolate;
+}
+
+.l2 {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.l3 {
+    color: rgb(0, 118, 0);
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.l4 {
+    font-size: 18px;
+}
+
+.l5 {
+    color: black;
+    background-color: rgb(255, 216, 20);
+    border: none;
+    height: 36px;
+    width: 124px;
+    border-radius: 18px;
+    font-size: 15px;
+    cursor: pointer;
+    margin-right: 8px;
+    transition: background-color 0.15s;
+}
+
+.l5:hover {
+    background-color: rgb(238, 201, 16);
+    transition: background-color 0.15s;
+}
+
+.l5:active {
+    color: rgba(0, 0, 0, 0.7);
+    background-color: rgba(238, 201, 16, 0.7);
+    transition: none;
+}
+
+.l6 {
+    color: black;
+    background-color: rgb(255, 164, 28);
+    border: none;
+    height: 36px;
+    width: 135px;
+    border-radius: 18px;
+    font-size: 15px;
+    cursor: pointer;
+    transition: background-color 0.15s;
+}
+
+.l6:hover {
+    background-color: rgb(234, 155, 37);
+    transition: background-color 0.15s;
+}
+
+.l6:active {
+    color: rgba(0, 0, 0, 0.7);
+    background-color: rgba(255, 164, 28, 0.7);
+    transition: none;
+}
